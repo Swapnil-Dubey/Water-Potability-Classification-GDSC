@@ -9,4 +9,4 @@ In this project, we will utilize a synthetically generated dataset (https://www.
 # CONTENTS
 - [Group Contract](Group_Contract.md)
 - [Dataset](water_potability.csv)
-- [Group Report](Group_Project_Report (1).ipynb)
+- [Group Report](Group_Project_Report.ipynb)
