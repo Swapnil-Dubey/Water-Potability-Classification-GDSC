@@ -6,6 +6,7 @@ In this project, we will utilize a synthetically generated dataset (https://www.
 - Swapnil Dubey 
 - Raghav Awasthi
 
+# CONTENTS
 - [Group Contract](Group_Contract.md)
 - [Dataset](data/water_potability.csv)
 - [Group Report](Group_Project_Report.ipynb)
