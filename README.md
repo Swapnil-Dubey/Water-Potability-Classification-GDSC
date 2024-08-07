@@ -4,7 +4,6 @@ In this project, we will utilize a synthetically generated dataset (https://www.
 
 # Members
 - Swapnil Dubey 
-- Raghav Awasthi
 
 # CONTENTS
 - [Group Contract](Group_Contract.md)
